@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x 2 chris chris 4096 Mar  7 20:24 .
+drwxrwxr-x 6 chris chris 4096 Mar  7 16:28 ..
+-rwxrw-r-- 1 chris chris   32 Mar  7 16:30 0-hello_world
+-rwxrwxr-x 1 chris chris   28 Mar  7 17:57 1-confused_smiley
+-rwxrw-r-- 1 chris chris   28 Mar  7 17:54 2-hellofile
+-rwxrw-r-- 1 chris chris   39 Mar  7 18:08 3-twofiles
+-rwxrw-r-- 1 chris chris   29 Mar  7 18:11 4-lastlines
+-rwxrw-r-- 1 chris chris   29 Mar  7 18:14 5-firstlines
+-rwxrw-r-- 1 chris chris   40 Mar  7 18:46 6-third_line
+-rwxrw-r-- 1 chris chris   80 Mar  7 19:16 7-file
+-rwxrw-r-- 1 chris chris   72 Mar  7 18:58 7-file~
+-rwxrw-r-- 1 chris chris   35 Mar  7 20:23 8-cwd_state
+-rw-rw-r-- 1 chris chris   12 Mar  7 19:32 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 chris chris    2 Mar  7 16:46 .gitignore
+-rw-rw-r-- 1 chris chris  737 Mar  7 18:41 iacta
+-rw-rw-r-- 1 chris chris    0 Mar  7 20:24 ls_cwd_content
+-rw-rw-r-- 1 chris chris   39 Mar  7 16:32 README.md
